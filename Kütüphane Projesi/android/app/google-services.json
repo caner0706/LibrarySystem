@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516451082630",
+    "project_id": "library-system-e3a53",
+    "storage_bucket": "library-system-e3a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516451082630:android:feef471146bc35e2034c07",
+        "android_client_info": {
+          "package_name": "com.example.librarysystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhfOOT5MGGeBNETjHks5aXe9dRgzL9MvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
