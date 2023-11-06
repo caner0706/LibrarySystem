@@ -14,9 +14,9 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız vardı
 
 ### Kurulum
 
-1. Bu depoyu yerel makinenize klonlayın: 'git clone https://github.com/KULLANICI_ADINIZ/KUTUPHANE_PROJESI.git'
-2. Proje dizinine gidin: 'cd KUTUPHANE_PROJESI'
-3. Projeyi çalıştırın: 'flutter run'
+1. Bu depoyu yerel makinenize klonlayın: ```git clone https://github.com/KULLANICI_ADINIZ/KUTUPHANE_PROJESI.git```
+2. Proje dizinine gidin: ```cd KUTUPHANE_PROJESI```
+3. Projeyi çalıştırın: ```flutter run```
 
 
 ## Kullanım
